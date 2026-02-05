@@ -6,16 +6,16 @@ We've all heard it. The belief that movies and TV shows from the "good old days"
 
 This project uses data science to analyze millions of IMDb ratings and investigate **The Golden Age Myth**. We separate statistical reality from survivorship bias to understand how entertainment quality—and our perception of it—has evolved over the last century.
 
-## � The Dashboard
+## The Dashboard
 
 We have also generated a polished, interactive HTML dashboard to visualize these trends.
 *   **Interact**: Open `index.html` in your web browser to explore.
-*   **View Online**: [www.praeek.com](https://pchandragrid.github.io/IMDB_Movies-TV_Blog/)
+*   **View Online**: [Live View](https://pchandragrid.github.io/IMDB_Movies-TV_Blog/)
 *   **Optimized Layout**: Clean visualizations with readable titles and axes (no overlap!).
 *   **Next Experiments**: Includes a section on future research directions.
 
 
-## �🕵️‍♂️ Key Findings 
+## 🕵️‍♂️ Key Findings 
 
 ### 1. The "Survivor" Effect 🏆
 When we look at movies from the 1940s or 50s, we see a lot of masterpieces. What we *don't* see are the thousands of terrible movies that have been forgotten.

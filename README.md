@@ -10,7 +10,7 @@ This project uses data science to analyze millions of IMDb ratings and investiga
 
 We have also generated a polished, interactive HTML dashboard to visualize these trends.
 *   **Interact**: Open `index.html` in your web browser to explore.
-*   **View Online**: [www.praeek.com](http://www.praeek.com)
+*   **View Online**: [www.praeek.com](https://pchandragrid.github.io/IMDB_Movies-TV_Blog/)
 *   **Optimized Layout**: Clean visualizations with readable titles and axes (no overlap!).
 *   **Next Experiments**: Includes a section on future research directions.
 
